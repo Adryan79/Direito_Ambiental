@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title> Projeto de Extensão 
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="" id="meta-keywords" name="keywords"/>
+  <meta content="" id="meta-description" name="description"/>
+  <link href="undefined" rel="icon" type="image/x-icon"/>
+  <link href="./main-m25eve3i.css" rel="stylesheet"/>
+  <style data-styled="ivoOXx dJHVNx cOKCgB  boKZAu jHCZrL gRBqqx iZASuI ehtzge bxeGYB hApwOg fWQyYs klOQRe eIWkuF idQtPS eJKNrI cSXxam kzDEEw iaxCJV hhzjlk giHXFP  itzSYI isaKnF iJYLqe iksDzg dUzUSo ivtucF bkhROS coflSe fyaaUx bNqWac gQFxbz dxzcjg PXsbt cGlesl byhCXC egOnCS gyEiOl SkrDO fblASQ ecADU iJmXUK crKYpY jZrQQw eSlqRm leXrAN kbUWQO cexcBk fjgubL ggaVQv kUoYky  kviIjz fBFPLj iNIdig hRbzNt dLniaj jaNPls hKjHPr iWpRlz fTWoz ebLElX hUfwvw dvFNcE kcxRvu gExKHg jjtnMh ifmjDT gUANEW jUnXMp gtDUTX eihFek iJPpXT fRiBaw fNijAa cQaMZn dieQlw hFiDet lmUFRm eicbC dXYeBk bdivov hKBCfs cwWBOh jhArze ineHXG goUXAt" data-styled-version="4.3.2">
+   /* sc-component-id: sc-global-2560230085 */
+.ivoOXx{position:fixed;z-index:19;right:20px;top:auto;bottom:0;-webkit-transform:none;-ms-transform:none;transform:none;margin-bottom:20px;}
+/* sc-component-id: sc-1vrgkll-1 */
+.dJHVNx{width:50px;height:50px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:pointer;outline:none;visibility:hidden;opacity:0;-webkit-transition:opacity .2s,visibility .2s;transition:opacity .2s,visibility .2s;background:transparent linear-gradient(180deg, #FFFFFF 0%, #F7F5FB 100%)  0% 0% no-repeat;border:1px solid #F7F5FB;border-radius:50%;box-shadow:0px 4px 8px rgba(37,71,92,0.15);} .dJHVNx > div svg{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;fill:#FF58A0;} .dJHVNx:hover{background:#FFFFFF;}
+/* sc-component-id: sc-1ly7lpo-0 */
+.boKZAu{position:relative;}
+/* sc-component-id: sc-1ly7lpo-1 */
+.jHCZrL{position:absolute;visibility:hidden;width:0;height:0;top:-0px;left:50%;}
+/* sc-component-id: sc-ewl9y2-0 */
+.klOQRe{width:95%;max-width:1400px;margin:0 auto;box-sizing:border-box;} @media only screen and (max-width:1440px){.klOQRe{width:90%;max-width:1200px;}} @media only screen and (max-width:1024px){.klOQRe{width:100%;padding-right:40px;padding-left:40px;}} @media only screen and (max-width:457px){.klOQRe{padding-right:20px;padding-left:20px;}}
+/* sc-component-id: sc-1m21ola-0 */
+.gRBqqx{word-break:break-word;width:100%;padding:0;background:#25475C;min-height:100vh;overflow:hidden;} .gRBqqx > div:first-child{position:absolute;} @media only screen and (max-width:1024px){.gRBqqx{padding:0 !important;}} .gRBqqx .slick-slide > div{margin:0;} .gRBqqx .slick-slide{min-height:100vh;} .gRBqqx .team6-slick-slider .slick-active{z-index:1;} .gRBqqx .slick-track > div{height:100%;} .gRBqqx .slick-track{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;} .gRBqqx .slick-track .slick-slide{height:auto;} .gRBqqx .slick-arrow{display:none !important;} .gRBqqx .socialIcons > .control-container:nth-child(n + 3) .styled-controls{right:0;left:initial;}
+/* sc-component-id: sc-1m21ola-1 */
+.fWQyYs{width:100% !important;max-width:initial;min-height:100vh;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;} @media only screen and (max-width:1024px){.fWQyYs{padding:0;}}
+/* sc-component-id: sc-1m21ola-2 */
+.kzDEEw{background: url(https://th.bing.com/th/id/R.a04f6d83db03ced2337ecf34db2838b2?rik=Svbk2ctDd3CTZA&riu=http%3a%2f%2fwww.meioambientenews.com.br%2fsgw%2fdata%2f1%2fnews%2f26%2f200c990c2059ae79c0ae7074d900ae14.jpg&ehk=c9Usrw2gU77y9cvhTCrIsTU8%2fJ1iQLjrrC9T%2fQQZM6Q%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1
+  ) no-repeat center/cover;}
+/* sc-component-id: sc-1m21ola-5 */
+.coflSe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;bottom:80px;box-sizing:border-box;position:absolute;padding-left:calc(50% - 700px);} @media only screen and (max-width:1600px){.coflSe{bottom:60px;padding-left:calc(50% - 600px);}} @media only screen and (max-width:1320px){.coflSe{padding-left:7.5%;}} @media only screen and (max-width:1024px){.coflSe{padding-left:initial;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}} .coflSe .add-button-wrap{margin-left:30px;}
+/* sc-component-id: sc-1m21ola-6 */
+.fyaaUx{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+/* sc-component-id: sc-1m21ola-7 */
+.bNqWac{width:10px;height:10px;margin-right:10px;border:1px solid #FFFFFF;border-radius:5px;box-sizing:border-box;cursor:pointer;background-color:#FFFFFF;}.gQFxbz{width:10px;height:10px;margin-right:10px;border:1px solid #FFFFFF;border-radius:5px;box-sizing:border-box;cursor:pointer;background-color:transparent;}
+/* sc-component-id: sc-1m21ola-8 */
+.eIWkuF{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;position:absolute;z-index:1;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;top:50px;box-sizing:border-box;position:absolute;left:calc(50% - 700px);} @media only screen and (max-width:1600px){.eIWkuF{left:calc(50% - 600px);}} @media only screen and (max-width:1320px){.eIWkuF{left:7%;}} @media only screen and (max-width:1024px){.eIWkuF{left:35px;}}
+/* sc-component-id: sc-1m21ola-9 */
+.idQtPS{color:#FFFFFF;margin-bottom:0 !important;line-height:1em;padding:0 5px;}
+/* sc-component-id: sc-1m21ola-10 */
+.eJKNrI{color:#FFFFFF;padding:0 5px 2px 5px;}
+/* sc-component-id: sc-1m21ola-11 */
+.cSXxam{color:#FFFFFF;padding:0 5px;line-height:1em;}
+/* sc-component-id: sc-1m21ola-12 */
+.hhzjlk{width:95%;max-width:1400px;min-height:100vh;height:100%;margin:0 auto;box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding-top:135px;padding-bottom:160px;} .hhzjlk h2,.hhzjlk p,.hhzjlk .buttons-block{opacity:0;-webkit-transform:translateX(70px);-ms-transform:translateX(70px);transform:translateX(70px);} @media only screen and (max-width:1600px){.hhzjlk{width:90%;max-width:1200px;}} @media only screen and (max-width:1320px){.hhzjlk{width:85%;}} @media only screen and (max-width:1024px){.hhzjlk{width:100%;padding-left:40px;padding-right:40px;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;box-sizing:border-box;}.hhzjlk .buttons-block{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto;}.hhzjlk .buttons-wrapper{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto;}} @media only screen and (max-width:457px){.hhzjlk{padding-bottom:110px;padding-left:20px;padding-right:20px;}} .hhzjlk .buttons-block{-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;margin-left:-15px;} .hhzjlk >:first-child{padding-top:0;} .hhzjlk > .control-container p{padding-top:0;} .hhzjlk .control-container{width:100%;max-width:644px;margin-bottom:30px;} @media only screen and (max-width:1024px){.hhzjlk .control-container{max-width:initial;}} @media only screen and (min-width:1025px){.hhzjlk > .control-container{max-width:644px;}.hhzjlk > .styled-controls{right:0;left:unset;}}.giHXFP{width:95%;max-width:1400px;min-height:100vh;height:100%;margin:0 auto;box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding-top:135px;padding-bottom:160px;} .giHXFP h2,.giHXFP p,.giHXFP .buttons-block{opacity:0;-webkit-transform:translateX(70px);-ms-transform:translateX(70px);transform:translateX(70px);} .giHXFP h2,.giHXFP p,.giHXFP .buttons-block{opacity:1;-webkit-transform:translateX(0);-ms-transform:translateX(0);transform:translateX(0);} .giHXFP >:first-child{-webkit-transition:opacity 0.7s 0.2s ease-out,-webkit-transform 0.7s 0.2s ease-out;-webkit-transition:opacity 0.7s 0.2s ease-out,transform 0.7s 0.2s ease-out;transition:opacity 0.7s 0.2s ease-out,transform 0.7s 0.2s ease-out;} @media only screen and (max-width:1024px){.giHXFP >:first-child{-webkit-transition:opacity 0.5s ease-out,-webkit-transform 0.5s ease-out;-webkit-transition:opacity 0.5s ease-out,transform 0.5s ease-out;transition:opacity 0.5s ease-out,transform 0.5s ease-out;}} .giHXFP >:nth-child(2){-webkit-transition:opacity 0.7s 0.4s ease-out,-webkit-transform 0.7s 0.4s ease-out;-webkit-transition:opacity 0.7s 0.4s ease-out,transform 0.7s 0.4s ease-out;transition:opacity 0.7s 0.4s ease-out,transform 0.7s 0.4s ease-out;} @media only screen and (max-width:1024px){.giHXFP >:nth-child(2){-webkit-transition:opacity 0.5s 0.2s ease-out,-webkit-transform 0.5s 0.2s ease-out;-webkit-transition:opacity 0.5s 0.2s ease-out,transform 0.5s 0.2s ease-out;transition:opacity 0.5s 0.2s ease-out,transform 0.5s 0.2s ease-out;}} .giHXFP >:nth-child(3){-webkit-transition:opacity 0.7s 0.4s ease-out,-webkit-transform 0.7s 0.4s ease-out;-webkit-transition:opacity 0.7s 0.4s ease-out,transform 0.7s 0.4s ease-out;transition:opacity 0.7s 0.4s ease-out,transform 0.7s 0.4s ease-out;} @media only screen and (max-width:1024px){.giHXFP >:nth-child(3){-webkit-transition:opacity 0.5s 0.35s ease-out,-webkit-transform 0.5s 0.35s ease-out;-webkit-transition:opacity 0.5s 0.35s ease-out,transform 0.5s 0.35s ease-out;transition:opacity 0.5s 0.35s ease-out,transform 0.5s 0.35s ease-out;}} @media only screen and (max-width:1600px){.giHXFP{width:90%;max-width:1200px;}} @media only screen and (max-width:1320px){.giHXFP{width:85%;}} @media only screen and (max-width:1024px){.giHXFP{width:100%;padding-left:40px;padding-right:40px;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;box-sizing:border-box;}.giHXFP .buttons-block{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto;}.giHXFP .buttons-wrapper{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto;}} @media only screen and (max-width:457px){.giHXFP{padding-bottom:110px;padding-left:20px;padding-right:20px;}} .giHXFP .buttons-block{-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;margin-left:-15px;} .giHXFP >:first-child{padding-top:0;} .giHXFP > .control-container p{padding-top:0;} .giHXFP .control-container{width:100%;max-width:644px;margin-bottom:30px;} @media only screen and (max-width:1024px){.giHXFP .control-container{max-width:initial;}} @media only screen and (min-width:1025px){.giHXFP > .control-container{max-width:644px;}.giHXFP > .styled-controls{right:0;left:unset;}}
+/* sc-component-id: sc-1m21ola-13 */
+.dUzUSo{position:absolute;z-index:1;width:100%;max-width:1612px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;top:50%;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);height:0;} @media only screen and (max-width:1024px){.dUzUSo{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}}
+/* sc-component-id: sc-1m21ola-14 */
+.ivtucF{width:36px;min-width:36px;height:36px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;cursor:pointer;-webkit-transition:0.1s linear;transition:0.1s linear;padding:0;border:none;background:transparent;border-radius:50%;border:1px solid #FFFFFF;border-radius:50%;} .ivtucF:focus{outline:none;} .ivtucF.left{margin-left:20px;} .ivtucF.left:hover > div{-webkit-transform:translateX(-2px);-ms-transform:translateX(-2px);transform:translateX(-2px);} .ivtucF.right{margin-right:20px;} .ivtucF.right:hover > div{-webkit-transform:translateX(2px);-ms-transform:translateX(2px);transform:translateX(2px);} @media only screen and (max-width:1024px){.ivtucF{display:none;}} .ivtucF > div{-webkit-transition:-webkit-transform linear 0.15s;-webkit-transition:transform linear 0.15s;transition:transform linear 0.15s;} .ivtucF:hover{opacity:0.7;} .ivtucF:hover > div{opacity:0.7;}
+/* sc-component-id: sc-1m21ola-15 */
+@media only screen and (max-width:457px){.bkhROS{display:none;}}
+/* sc-component-id: sc-global-4200155263 */
+.editable-control-container{display:block;} .text-customization-link-wrapper{display:inline;}
+/* sc-component-id: sc-et7lxk-0 */
+.iZASuI{width:100%;padding-top:0;box-shadow:none;position:fixed !important;z-index:9;top:0;left:0;right:0;} @media only screen and (max-width:768px){.iZASuI{padding-top:0;}} .iZASuI .rf-add-btn{white-space:nowrap;}
+/* sc-component-id: sc-et7lxk-1 */
+.ehtzge{width:100%;max-width:1500px;position:relative;padding:0 20px;margin:0 auto;z-index:19;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;box-sizing:border-box;} .ehtzge .lazy-figure{font-size:0;} @media only screen and (max-width:1440px){.ehtzge{width:100%;max-width:1200px;}} @media only screen and (max-width:1024px){.ehtzge{-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;}}
+/* sc-component-id: sc-1akbv98-2 */
+.bxeGYB{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;width:100%;margin:0px 20px;} @media only screen and (max-width:1024px){.bxeGYB{display:none;}} .bxeGYB .header-socials{padding:10px 0;}
+/* sc-component-id: sc-1akbv98-12 */
+.hApwOg{display:none;} @media only screen and (max-width:1024px){.hApwOg{display:block;}}
+/* sc-component-id: sc-1xk50io-0 */
+.itzSYI{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;z-index:1;padding-top:30px;} .itzSYI .buttons-wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} .itzSYI .add-button-wrap{margin:15px;} .itzSYI .add-button-wrap > div{width:100%;box-sizing:border-box;height:50px;padding:16px 30px;}
+/* sc-component-id: sc-1xk50io-1 */
+.isaKnF{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:-15px 0;margin:-15px 0;}
+/* sc-component-id: sc-1xk50io-2 */
+.iJYLqe{margin:15px;} @media only screen and (max-width:550px){.iJYLqe{max-width:300px;}} .iJYLqe .control-container{width:100%;} .iJYLqe .link-wrapper{width:100%;} .iJYLqe .link{border-radius:50px;white-space:nowrap;none;color:#FFFFFF;background:linear-gradient(-180deg,#FFCA68 0%,#FF58A0 96%);box-shadow:none;background-repeat:no-repeat;-webkit-text-decoration:none;text-decoration:none;width:100%;max-width:300px;padding:0 40px;overflow:hidden;text-overflow:ellipsis;box-sizing:border-box;text-align:center;height:50px;line-height:50px;cursor:pointer;-webkit-text-decoration:none !important;text-decoration:none !important;font-weight:400;background-repeat:no-repeat !important;font-size:14px;display:block;} @media only screen and (min-width:767px){.iJYLqe .link:hover{color:#FFFFFF;background:#FF58A0;box-shadow:none;}} .iJYLqe .link:active{color:#FFFFFF;background:#FFCA68;box-shadow:none;}.iksDzg{margin:15px;} @media only screen and (max-width:550px){.iksDzg{max-width:300px;}} .iksDzg .control-container{width:100%;} .iksDzg .link-wrapper{width:100%;} .iksDzg .link{border-radius:50px;white-space:nowrap;none;color:#25475C;background:linear-gradient(-180deg,#FFFFFF 0%,#F7F5FB 96%);box-shadow:none;background-repeat:no-repeat;-webkit-text-decoration:none;text-decoration:none;width:100%;max-width:300px;padding:0 40px;overflow:hidden;text-overflow:ellipsis;box-sizing:border-box;text-align:center;height:50px;line-height:50px;cursor:pointer;-webkit-text-decoration:none !important;text-decoration:none !important;font-weight:400;background-repeat:no-repeat !important;font-size:14px;display:block;} @media only screen and (min-width:767px){.iksDzg .link:hover{color:#FFFFFF;background:#B2A6C8;box-shadow:none;}} .iksDzg .link:active{color:#25475C;background:#F7F5FB;box-shadow:none;}
+/* sc-component-id: sc-zyxusa-0 */
+.PXsbt{word-break:break-word;padding:80px 0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;overflow:hidden;} @media only screen and (max-width:457px){.PXsbt{padding:60px 0;}}
+/* sc-component-id: sc-hfuk3-0 */
+.dxzcjg{background:linear-gradient(rgba(37,71,92,0),rgba(37,71,92,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/731a2ca9a8c4f796c06dada976c60d17.jpg) no-repeat center/cover;padding:40px 0px;} @media only screen and (max-width:1440px){.dxzcjg{background:linear-gradient(rgba(37,71,92,0),rgba(37,71,92,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/d5148b4c10c2cad4b4bd05593aef781a.jpg) no-repeat center/cover;}} @media only screen and (max-width:768px){.dxzcjg{background:linear-gradient(rgba(37,71,92,0),rgba(37,71,92,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/31e2b7d8ab5d554ceb81330603eb12a8.jpg) no-repeat center/cover;}} @media only screen and (max-width:480px){.dxzcjg{background:linear-gradient(rgba(37,71,92,0),rgba(37,71,92,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/0deef8962a82ea611e4dadbc5dab6f63.jpg) no-repeat center/cover;}} .dxzcjg .opacity{opacity:0;position:absolute;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+/* sc-component-id: sc-hfuk3-1 */
+.cGlesl{width:100%;max-width:100%;margin:0 auto;margin:0 auto;} @media only screen and (max-width:1024px){.cGlesl{padding-top:0;padding-bottom:0;padding-left:0px;padding-right:0px;}}
+/* sc-component-id: sc-hfuk3-2 */
+.byhCXC{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;max-width:100%;position:relative;overflow:hidden;} @media only screen and (max-width:1024px){.byhCXC{padding-left:0px;padding-right:0px;}} .byhCXC .control-container{width:95%;} @media only screen and (max-width:457px){.byhCXC .control-container{width:calc(100% - 65px);}} .byhCXC .control-container p{margin-top:0;min-width:133px;}
+/* sc-component-id: sc-hfuk3-3 */
+.egOnCS{opacity:0.5;padding-right:20px;box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;}
+/* sc-component-id: sc-hfuk3-7 */
+.gyEiOl{color:#FFFFFF;line-height:1.4;white-space:nowrap;margin-bottom:0;width:-webkit-max-content;width:-moz-max-content;width:max-content;}
+/* sc-component-id: sc-simwcc-0 */
+.SkrDO{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding-top:80px;background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/8f746c02f75fc7036af60cee0be6cf41.jpg) no-repeat center/cover;} @media only screen and (max-width:457px){.SkrDO{padding-top:60px;}} @media only screen and (max-width:1440px){.SkrDO{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/318f012fe2d395ebd902ebbb117160e2.jpg) no-repeat center/cover;}} @media only screen and (max-width:768px){.SkrDO{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/f2435606ae846646503bc37441108080.jpg) no-repeat center/cover;}} @media only screen and (max-width:480px){.SkrDO{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/e3cc0cff7c3299463ba9f7bf4bf92f50.jpg) no-repeat center/cover;}} .SkrDO >:first-child{padding-top:0;}
+/* sc-component-id: sc-simwcc-1 */
+.fblASQ{text-align:center;width:100%;margin:0 auto;} @media only screen and (min-width:1025px){.fblASQ{max-width:800px;}} .fblASQ >:first-child{margin-top:0;} .fblASQ > .control-container{margin-bottom:30px;width:100%;} .fblASQ > .control-container p{margin-top:0;}
+/* sc-component-id: sc-simwcc-4 */
+.ecADU{max-width:1200px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding-top:50px;margin:-34px auto 0 auto;} @media only screen and (max-width:1025px){.ecADU{max-width:700px;padding-top:40px;}}
+/* sc-component-id: sc-simwcc-5 */
+.iJmXUK{margin:58px 15px 0 15px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+/* sc-component-id: sc-simwcc-6 */
+.crKYpY{position:relative;height:100%;border-radius:10px;box-shadow:0 9px 22px 0 rgba(37,71,92,0.12);border:none;background-color:white;-webkit-transition:0.1s linear;transition:0.1s linear;padding:50px 20px 10px 20px;box-sizing:border-box;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:100%;max-width:250px;min-width:250px;} .crKYpY .add-button-wrap{text-align:left !important;margin-top:auto;} .crKYpY > .control-container{margin-bottom:10px;width:100%;} .crKYpY > .control-container h2{margin-bottom:0;} .crKYpY > .control-container p{margin-top:0;margin-bottom:0;}
+/* sc-component-id: sc-simwcc-9 */
+.jZrQQw{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:absolute;top:-23px;left:20px;}
+/* sc-component-id: sc-simwcc-10 */
+.eSlqRm{width:47px;height:47px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:10px;box-shadow:0px 3px 6px rgba(41,55,97,0.101);border:none;color:#25475C;background:white;} .eSlqRm svg{fill:#25475C;}
+/* sc-component-id: sc-zqotme-0 */
+.leXrAN{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;background:#FFFFFF;padding:80px 0 8px 0;} @media only screen and (max-width:457px){.leXrAN{padding:60px 0 8px 0;}} .leXrAN .row-remove{color:white;padding:10px;}
+/* sc-component-id: sc-zqotme-1 */
+.kbUWQO{text-align:center;width:90%;max-width:900px;margin:0 auto 40px auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;} @media only screen and (max-width:1024px){.kbUWQO{width:100%;max-width:100%;padding-left:40px;padding-right:40px;box-sizing:border-box;}} @media only screen and (max-width:768px){.kbUWQO{margin-bottom:40px;}} @media only screen and (max-width:457px){.kbUWQO{padding-left:20px;padding-right:20px;}} .kbUWQO >:last-child{margin-bottom:0;} .kbUWQO > .control-container{margin-bottom:30px;} .kbUWQO > .control-container h1{margin-bottom:0;} .kbUWQO > .control-container:nth-child(1){margin-bottom:20px;}
+/* sc-component-id: sc-zqotme-4 */
+.cexcBk{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+/* sc-component-id: sc-zqotme-6 */
+.fjgubL{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;margin:0 auto;box-sizing:border-box;} @media only screen and (max-width:1024px){.fjgubL{padding-left:30px;padding-right:30px;}} @media only screen and (max-width:457px){.fjgubL{padding-left:10px;padding-right:10px;}}
+/* sc-component-id: sc-zqotme-8 */
+.ggaVQv{width:20%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;position:relative;margin:8px;} @media only screen and (min-width:1023px){.ggaVQv:first-child{margin-left:16px;}.ggaVQv:last-child{margin-right:16px;}} @media only screen and (max-width:1023px){.ggaVQv{width:45%;}} @media only screen and (max-width:650px){.ggaVQv{width:100%;}} .ggaVQv > .control-container{position:absolute;z-index:1;width:calc(100% - 60px);bottom:30px;left:30px;} .ggaVQv > .control-container .sc-zqotme-7{position:static;} .ggaVQv .LazyLoad{width:100%;overflow:hidden;} .ggaVQv .lazy-figure{padding-top:100%;height:initial;-webkit-transition:all 0.5s linear;transition:all 0.5s linear;} .ggaVQv:hover .lazy-figure{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);transform:scale(1.2);} .ggaVQv > .control-container{position:absolute;z-index:1;bottom:30px;left:30px;right:30px;} .ggaVQv > .control-container > p{position:static;padding:0;}
+/* sc-component-id: sc-zqotme-9 */
+.kUoYky{width:100%;position:relative;padding-top:100%;} .kUoYky .control-container{position:absolute;top:0;left:0;width:100%;height:100%;} .kUoYky .control-container > .styled-controls{z-index:10;} .kUoYky .LazyLoad{position:absolute;top:0;left:0;width:100%;height:initial;} .kUoYky .lazy-figure{padding-top:100%;height:initial;}
+/* sc-component-id: sc-63vfq0-0 */
+.fBFPLj{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/731a2ca9a8c4f796c06dada976c60d17.jpg) no-repeat center/cover;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;overflow:hidden;} @media only screen and (max-width:1440px){.fBFPLj{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/d5148b4c10c2cad4b4bd05593aef781a.jpg) no-repeat center/cover;}} @media only screen and (max-width:768px){.fBFPLj{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/31e2b7d8ab5d554ceb81330603eb12a8.jpg) no-repeat center/cover;}} @media only screen and (max-width:480px){.fBFPLj{background:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)),url(https://hosting.renderforestsites.com/5699226/1046550/media/0deef8962a82ea611e4dadbc5dab6f63.jpg) no-repeat center/cover;}} .fBFPLj .add-button-wrap{margin-bottom:20px;}
+/* sc-component-id: sc-63vfq0-1 */
+.iNIdig{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;z-index:2;margin-top:20px;padding:0 40px;box-sizing:border-box;} @media only screen and (max-width:1440px){.iNIdig{width:100%;}} @media only screen and (max-width:1024px){.iNIdig{padding-top:0px;}} @media only screen and (max-width:457px){.iNIdig{padding-left:20px;padding-right:20px;}} .iNIdig:nth-child(1){margin-top:0px;} .iNIdig .control-container{margin-bottom:30px;width:100%;} .iNIdig .control-container h1{margin-bottom:0;} .iNIdig .control-container p{padding-top:0;}
+/* sc-component-id: sc-63vfq0-2 */
+.hRbzNt{padding:40px 0;box-sizing:border-box;border-radius:10px;background-color:#FFFFFF;border:1px solid rgba(37,71,92,0.15);width:100%;max-width:700px;margin:0 auto;position:relative;} @media only screen and (max-width:768px){.hRbzNt{max-width:600px;}} .hRbzNt > div{width:100%;}
+/* sc-component-id: sc-63vfq0-8 */
+.dLniaj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}
+/* sc-component-id: sc-63vfq0-13 */
+.kviIjz .form-container{background-color:#FFFFFF;} .kviIjz .form-container .control-container{max-width:700px;padding:40px 0 20px 0;margin:40px auto 50px auto;} @media only screen and (max-width:1024px){.kviIjz .form-container .control-container{margin-right:20px;margin-left:20px;}.kviIjz .form-container .control-container > div{padding-right:20px;padding-left:20px;}} @media only screen and (max-width:457px){.kviIjz .form-container .control-container{margin-right:10px;margin-left:10px;}.kviIjz .form-container .control-container > div{padding-right:10px;padding-left:10px;}}
+/* sc-component-id: sc-f74s5z-0 */
+.jaNPls{margin-top:30px;}
+/* sc-component-id: sc-f74s5z-1 */
+.hKjHPr{position:relative;display:inline-block;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:50px;0 6px 24px 0 rgba(255,88,160,0.5);color:#FFFFFF;background:linear-gradient(-180deg,#FFCA68 0%,#FF58A0 96%);box-shadow:0 4px 10px 0 rgba(255,88,160,0.5);max-width:300px;padding:0 40px;box-sizing:border-box;text-align:center;height:50px;cursor:pointer;-webkit-text-decoration:none !important;text-decoration:none !important;font-weight:400 !important;background-repeat:no-repeat !important;font-size:14px !important;line-height:50px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;border:none;} @media only screen and (min-width:767px){.hKjHPr:hover{color:#FFFFFF;background:#FFCA68;box-shadow:0 4px 10px 0 rgba(255,88,160,0.5);}} .hKjHPr:active{color:#FFFFFF;background:#FF58A0;box-shadow:none;} .hKjHPr .spinner{position:absolute;right:15px;top:14px;}
+/* sc-component-id: sc-nqpo2f-0 */
+.hUfwvw > div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-bottom:30px;margin-top:0;} .hUfwvw > div form{-webkit-column-gap:50px;column-gap:50px;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;max-width:520px;} .hUfwvw > div form > div{max-width:235px;word-break:break-word;} .hUfwvw label{width:initial;} .hUfwvw .radio-button-list .radio-buttons-title h4{font-weight:600;text-align:center;}
+/* sc-component-id: sc-nqpo2f-1 */
+.fTWoz{width:100%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;background-color:#FFFFFF;padding:30px 30px 80px 30px;box-sizing:border-box;display:none;} @media only screen and (max-width:1024px){.fTWoz{padding:50px 40px 80px 40px;}} @media only screen and (max-width:768px){.fTWoz{padding-top:40px;}} @media only screen and (max-width:457px){.fTWoz{padding:30px 20px 60px 20px;}} .fTWoz label,.fTWoz .checkbox-list-title,.fTWoz .radio-buttons-title{color:#25475C;} .fTWoz input{color:#25475C;border:1px solid rgba(37,71,92,0.3);font-weight:400;} .fTWoz input:focus{border-color:#25475C;} .fTWoz .asterisk{color:#25475C;} .fTWoz .error-state input{border:1px solid #eb0c00;} .fTWoz .error-state .asterisk{color:#eb0c00;}
+/* sc-component-id: sc-nqpo2f-2 */
+.ebLElX{width:100%;max-width:520px;} .ebLElX .dynamic-fields{margin-top:30px;} .ebLElX .rsvp-option > div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} .ebLElX .rsvp-option > div label{font-size:18px !important;} .ebLElX .rsvp-option .radio-buttons-title{font-size:20px;font-weight:700;}
+/* sc-component-id: sc-nqpo2f-3 */
+.eicbC{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:50px;white-space:nowrap;color:#FFFFFF;background:linear-gradient(-180deg,#FFCA68 0%,#FF58A0 96%);box-shadow:0 4px 10px 0 rgba(255,88,160,0.5);max-width:300px;padding-left:40px;padding-right:40px;overflow:hidden;text-overflow:ellipsis;box-sizing:border-box;text-align:center;height:50px;cursor:pointer;-webkit-text-decoration:none !important;text-decoration:none !important;font-weight:400 !important;background-repeat:no-repeat !important;font-size:14px !important;border:none;margin:30px auto 0 auto;} @media only screen and (min-width:767px){.eicbC:hover{color:#FFFFFF;background:#FFCA68;box-shadow:0 4px 10px 0 rgba(255,88,160,0.5);}} .eicbC:active{color:#FFFFFF;background:#FF58A0;box-shadow:none;} .eicbC .spinner{position:absolute;right:15px;top:15px;}
+/* sc-component-id: sc-nqpo2f-4 */
+.eihFek{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;margin-bottom:15px;} .eihFek:nth-last-child(1){margin-bottom:0;} @media only screen and (min-width:458px){.eihFek > div:first-child{margin-right:20px;}} @media only screen and (max-width:457px){.eihFek{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}} .eihFek .error-state div:last-child{top:78px;bottom:auto;} .eihFek .remove-icon{position:absolute;width:20px;height:20px;top:55px;right:-25px;cursor:pointer;fill:#25475C;} .eihFek .remove-icon:hover{fill:rgba(37,71,92,0.5);} @media only screen and (max-width:457px){.eihFek .remove-icon{right:-20px;}} .eihFek + .dynamic-fields > .radio-button-list,.eihFek + .dynamic-fields > .rsvp-checkbox-list{margin-top:30px;}
+/* sc-component-id: sc-nqpo2f-5 */
+.hFiDet{display:block;border:none;background:transparent;font-weight:600 !important;margin:30px auto;color:#FF58A0;cursor:pointer;} .hFiDet + .sc-nqpo2f-4{margin-top:-20px;} .hFiDet + .dynamic-fields > div:first-child{margin-top:0;} .hFiDet:disabled{opacity:0.5;pointer-events:none;cursor:default;}
+/* sc-component-id: sc-nqpo2f-6 */
+.lmUFRm .rsvp-input,.lmUFRm .rsvp-checkbox-list,.lmUFRm .radio-button-list{margin-bottom:30px;} .lmUFRm .rsvp-input + .rsvp-input{margin-top:-10px;}
+/* sc-component-id: sc-nqpo2f-7 */
+.iWpRlz{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;} .iWpRlz .control-container{width:100%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;box-sizing:border-box;}
+/* sc-component-id: sc-1ygymcr-0 */
+.ifmjDT{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-column-gap:30px;column-gap:30px;row-gap:15px;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;} @media only screen and (min-width:590px){} @media only screen and (max-width:457px){.ifmjDT{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}
+/* sc-component-id: sc-1ygymcr-1 */
+.gExKHg{word-break:break-word;}
+/* sc-component-id: sc-1ygymcr-2 */
+.dvFNcE{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin-top:30px;} .dvFNcE .sc-1ygymcr-1{font-weight:400;}
+/* sc-component-id: sc-1ygymcr-3 */
+.jjtnMh{font-size:14px;padding-left:5px;}
+/* sc-component-id: sc-1ygymcr-4 */
+.kcxRvu{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-bottom:20px;}
+/* sc-component-id: sc-1396f4y-0 */
+.gtDUTX{color:#25475C;position:relative;padding-left:30px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:120px;cursor:pointer;word-break:break-word;} @media only screen and (max-width:457px){.gtDUTX{width:calc(100% - 30px);}} .gtDUTX:before{content:'';position:absolute;left:0;width:22px;height:22px;min-width:22px;min-height:22px;box-sizing:border-box;border:1px solid rgba(37,71,92,0.3);border-radius:100%;background:#fff;} .gtDUTX:after{content:'';width:12px;height:12px;color:#FFFFFF;background:linear-gradient(-180deg,#FFCA68 0%,#FF58A0 96%);box-shadow:0 4px 10px 0 rgba(255,88,160,0.5);position:absolute;border:none;left:5px;border-radius:100%;-webkit-transition:all 0.2s ease;-webkit-transition:all 0.2s ease;transition:all 0.2s ease;} @media only screen and (min-width:767px){.gtDUTX:after:hover{color:#FFFFFF;background:#FFCA68;box-shadow:0 4px 10px 0 rgba(255,88,160,0.5);}} .gtDUTX:after:active{color:#FFFFFF;background:#FF58A0;box-shadow:none;}
+/* sc-component-id: sc-1396f4y-1 */
+.gUANEW{display:block;} .gUANEW .sc-1396f4y-0{font-weight:400;}
+/* sc-component-id: sc-1396f4y-2 */
+.jUnXMp{display:none;} .jUnXMp:not(:checked) + .sc-1396f4y-0:after{opacity:0;-webkit-transform:scale(0);-webkit-transform:scale(0);-ms-transform:scale(0);transform:scale(0);} .jUnXMp:checked + .sc-1396f4y-0:after{opacity:1;-webkit-transform:scale(1);-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}
+/* sc-component-id: sc-6srjsa-0 */
+.dieQlw{box-sizing:border-box;width:100%;padding:0 15px;height:50px;font-size:16px;-webkit-appearance:none;border-radius:25px;} .dieQlw:focus{outline:none;}
+/* sc-component-id: sc-6srjsa-1 */
+.iJPpXT{position:relative;width:100%;margin-top:20px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;}
+/* sc-component-id: sc-6srjsa-2 */
+.cQaMZn{font-size:16px;padding-left:5px;}
+/* sc-component-id: sc-6srjsa-3 */
+.fNijAa{display:block;margin-bottom:5px;font-weight:400 !important;position:relative;word-break:break-word;}
+/* sc-component-id: sc-6srjsa-5 */
+.fRiBaw{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} .fRiBaw > div > svg{max-width:12px;max-height:12px;}
+/* sc-component-id: sc-15u4boq-0 */
+.bdivov{padding:90px 80px;word-break:break-word;background:linear-gradient(180deg,#8980f7 0%,#4136c1 100%);width:100%;z-index:10;max-width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} @media only screen and (max-width:769px){.bdivov{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding:70px 20px;}}
+/* sc-component-id: sc-15u4boq-2 */
+.jhArze{position:relative;color:#ffffff;font-size:18px;line-height:22px;margin:0 40px 0 15px;padding-left:15px;} @media only screen and (max-width:768px){.jhArze{font-size:16px;}} @media only screen and (max-width:768px){.jhArze{text-align:center;padding:0;margin:0 auto 15px 15px;}} @media only screen and (max-width:980px){.jhArze{margin:30px 15px;}} @media only screen and (min-width:769px){.jhArze:before{content:'';position:absolute;left:0;width:2px;top:0;bottom:0;background-color:#c1c9e0;}} @media only screen and (max-width:768px){.jhArze:before{content:'';position:absolute;top:-30px;left:46%;width:60px;height:1px;background-color:#c1c9e0;}} @media only screen and (max-width:600px){.jhArze:before{left:44%;}} @media only screen and (max-width:458px){.jhArze:before{left:42%;}}
+/* sc-component-id: sc-15u4boq-3 */
+.ineHXG{font-weight:500;color:#ffffff;}
+/* sc-component-id: sc-15u4boq-4 */
+.hKBCfs{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} @media only screen and (max-width:768px){.hKBCfs{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}
+/* sc-component-id: sc-15u4boq-5 */
+.cwWBOh{max-width:255px;width:100%;} @media only screen and (max-width:768px){.cwWBOh{margin-bottom:20px;}}
+/* sc-component-id: sc-15u4boq-6 */
+.goUXAt{background:linear-gradient(180deg,#ffffff 0%,#f5fafe 100%);padding:11px 30px;text-align:center;font-size:14px;font-weight:500;outline:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer;border:none;border-radius:5px;line-height:17px;color:#545f7e;white-space:nowrap;} .goUXAt:hover{background:#ffffff;color:#363f5a;}
+/* sc-component-id: sc-global-1290370386 */
+.WM_GLOBAL_heading{font-family:Montserrat;font-weight:700;font-size:43.4px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading{font-size:26.560000000000002px;}} .WM_GLOBAL_headingExtraLarge{font-family:Montserrat;font-weight:700;font-size:335.5px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_headingExtraLarge{font-size:214px;}} .WM_GLOBAL_headingLarge{font-family:Montserrat;font-weight:700;font-size:214px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_headingLarge{font-size:78.5px;}} .WM_GLOBAL_heading120{font-family:Montserrat;font-weight:700;font-size:125.06px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading120{font-size:58.24px;}} .WM_GLOBAL_heading96{font-family:Montserrat;font-weight:700;font-size:99.36px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading96{font-size:56.54px;}} .WM_GLOBAL_heading72{font-family:Montserrat;font-weight:700;font-size:74.52px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading72{font-size:43.68px;}} .WM_GLOBAL_heading54{font-family:Montserrat;font-weight:700;font-size:55.68px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading54{font-size:35.120000000000005px;}} .WM_GLOBAL_heading42{font-family:Montserrat;font-weight:700;font-size:43.4px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading42{font-size:26.560000000000002px;}} .WM_GLOBAL_heading32{font-family:Montserrat;font-weight:700;font-size:33.120000000000005px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading32{font-size:24.560000000000002px;}} .WM_GLOBAL_heading24{font-family:Montserrat;font-weight:700;font-size:24.560000000000002px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading24{font-size:inheritpx;}} .WM_GLOBAL_heading20{font-family:Montserrat;font-weight:700;font-size:20.560000000000002px;margin-bottom:0.3em;} @media only screen and (max-width:768px){.WM_GLOBAL_heading20{font-size:20.560000000000002px;}} .WM_GLOBAL_paragraph{font-family:Montserrat;font-weight:300;font-size:18.560000000000002px;line-height:1.4;} .WM_GLOBAL_paragraph18{font-family:Montserrat;font-weight:300;font-size:18.560000000000002px;line-height:1.4;} .WM_GLOBAL_paragraph16{font-family:Montserrat;font-weight:300;font-size:16.28px;line-height:1.4;} .WM_GLOBAL_paragraph14{font-family:Montserrat;font-weight:300;font-size:14.280000000000001px;line-height:1.4;} .WM_GLOBAL_paragraph12{font-family:Montserrat;font-weight:300;font-size:12.280000000000001px;line-height:1.4;} .WM_GLOBAL_primary-font{font-family:Montserrat;font-weight:700;} .WM_GLOBAL_secondary-font{font-family:Montserrat;font-weight:300;}
+/* sc-component-id: sc-lvczw7-0 */
+.cOKCgB{position:relative;}
+/* sc-component-id: sc-lvczw7-1 */
+.dXYeBk{width:100%;bottom:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;z-index:20;}
+  </style>
+  <style data-styled="cNMKyT hbOMAe dgICdF kqZrcr hngYGS bOJWjB rygpP duqwSa gnwGPp ipfSzv cBOERd kLbfBv hijxOr" data-styled-version="4.3.2">
+   /* sc-component-id: sc-15za8y8-0 */
+.cNMKyT{max-width:644px;width:100%;color:#FFFFFF;margin-bottom:0;text-align:left;} @media only screen and (max-width:1024px){.cNMKyT{max-width:100%;}}.hbOMAe{color:#FFFFFF;max-width:644px;width:100%;padding-top:20px;text-align:left;} @media only screen and (max-width:1024px){.hbOMAe{max-width:100%;}}.dgICdF{color:#25475C;text-align:center;margin-bottom:0;}.kqZrcr{text-align:left;color:#25475C;}.hngYGS{text-align:left;color:#25475C;margin:10px 0 40px 0;line-height:1.4;}.bOJWjB{color:#25475C;margin-bottom:20px;text-align:center;}.rygpP{color:#25475C;text-align:center;}.duqwSa{display:block;width:100%;color:#FF58A0;text-align:center;} .duqwSa + h1{margin-top:10px;}.gnwGPp{color:#25475C;text-align:center;width:100%;margin-bottom:0px;word-break:break-word;}.ipfSzv{color:#25475C;margin-top:20px;width:100%;text-align:center;line-height:1.4;}.cBOERd{color:#25475C;display:block;width:100%;margin-top:30px;text-align:center;}.kLbfBv{display:block;width:100%;margin-top:20px;text-align:center;color:#25475C;}
+/* sc-component-id: sc-jutf6p-0 */
+.hijxOr{height:0px;visibility:hidden;overflow:hidden;} .hijxOr *{height:0;}
+  </style>
+  <link href="/rf_fonts/v1/fonts.css" rel="stylesheet"/>
+  <script async="" src="./builtIcons-m25eve3i.js">
+  </script>
+ </head>
+ <body>
+  <div id="root">
+   <div class="sc-1vrgkll-0 ivoOXx">
+    <button class="sc-1vrgkll-1 dJHVNx">
+    </button>
+   </div>
+   <div class="sc-lvczw7-0 cOKCgB">
+    <div class="components-section">
+     <header>
+      <div class="sc-1ly7lpo-0 boKZAu">
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-189bacb2022">
+       </div>
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-0">
+       </div>
+       <div class="sc-1m21ola-0 gRBqqx">
+        <div class="sc-et7lxk-0 iZASuI">
+         <div class="WM_GLOBAL_secondary-font header-nav-bar sc-et7lxk-1 ehtzge" type="header">
+          <div class="porjectLinksDesktop sc-1akbv98-2 bxeGYB">
+          </div>
+          <div class="sc-1akbv98-12 hApwOg">
+          </div>
+         </div>
+        </div>
+        <div class="sc-1m21ola-1 fWQyYs sc-ewl9y2-0 klOQRe">
+         <div class="sc-1m21ola-8 eIWkuF">
+          <p class="WM_GLOBAL_heading54 sc-1m21ola-9 idQtPS">
+           0
+           <!-- -->
+           1
+          </p>
+          <p class="sc-1m21ola-10 eJKNrI">
+           /
+          </p>
+          <p class="WM_GLOBAL_paragraph18 sc-1m21ola-11 cSXxam">
+           0
+           <!-- -->
+           2
+          </p>
+         </div>
+         <div class="slick-slider slider mySlider slick-initialized" dir="ltr">
+          <div class="slick-list">
+           <div class="slick-track" style="width:500%;left:-100%">
+            <div aria-hidden="true" class="slick-slide slick-cloned" data-index="-1" style="width:20%" tabindex="-1">
+             <div>
+              <div class="sc-1m21ola-2 kzDEEw" style="width:100%;display:inline-block" tabindex="-1">
+               <div class="sc-1m21ola-12 hhzjlk">
+                <h2 class="sc-1m21ola-3 WM_GLOBAL_heading54 sm-word-wrap sc-15za8y8-0 cNMKyT">
+                 Summer pool party
+                </h2>
+                <p class="sc-1m21ola-4 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 hbOMAe">
+                 This is an annual pool party we have organised for more than 3 years. Everyone knows how much fun they might miss if they don't make it. So save the date and come with good vibes only!
+                </p>
+                <div class="buttons-block sc-1xk50io-0 itzSYI">
+                 <div class="sc-1xk50io-1 isaKnF">
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Join the fun!
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper sc-jutf6p-0 hijxOr">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Join the fun!
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div aria-hidden="false" class="slick-slide slick-active slick-current" data-index="0" style="outline:none;width:20%" tabindex="-1">
+             <div>
+              <div class="sc-1m21ola-2 iaxCJV" style="width:100%;display:inline-block" tabindex="-1">
+               <div class="sc-1m21ola-12 giHXFP">
+                <h2 class="sc-1m21ola-3 WM_GLOBAL_heading54 sm-word-wrap sc-15za8y8-0 cNMKyT">
+                 Hey there, aquaholics!
+                </h2>
+                <p class="sc-1m21ola-4 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 hbOMAe">
+                 The biggest pool party of this summer is on the go! Join Blue Desert's annual pool party and enjoy the grandest water celebration in the city.
+                </p>
+                <div class="buttons-block sc-1xk50io-0 itzSYI">
+                 <div class="sc-1xk50io-1 isaKnF">
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Legislação
+                     </a>
+                    </div>
+                   </div>
+                   <div class="sc-1xk50io-2 iksDzg">
+                    <div class="link-wrapper">
+                     <a class="link" href="http://builder.renderforestsites.com" rel="noopener noreferrer" target="_blank">
+                      Assistir Vídeo
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper sc-jutf6p-0 hijxOr">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Legislação
+                     </a>
+                    </div>
+                   </div>
+                   <div class="sc-1xk50io-2 iksDzg">
+                    <div class="link-wrapper">
+                     <a class="link" href="http://builder.renderforestsites.com" rel="noopener noreferrer" target="_blank">
+                      Assistir Vídeo
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div aria-hidden="true" class="slick-slide" data-index="1" style="outline:none;width:20%" tabindex="-1">
+             <div>
+              <div class="sc-1m21ola-2 kzDEEw" style="width:100%;display:inline-block" tabindex="-1">
+               <div class="sc-1m21ola-12 hhzjlk">
+                <h2 class="sc-1m21ola-3 WM_GLOBAL_heading54 sm-word-wrap sc-15za8y8-0 cNMKyT">
+                 Summer pool party
+                </h2>
+                <p class="sc-1m21ola-4 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 hbOMAe">
+                 This is an annual pool party we have organised for more than 3 years. Everyone knows how much fun they might miss if they don't make it. So save the date and come with good vibes only!
+                </p>
+                <div class="buttons-block sc-1xk50io-0 itzSYI">
+                 <div class="sc-1xk50io-1 isaKnF">
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Join the fun!
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper sc-jutf6p-0 hijxOr">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Join the fun!
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div aria-hidden="true" class="slick-slide slick-cloned" data-index="2" style="width:20%" tabindex="-1">
+             <div>
+              <div class="sc-1m21ola-2 iaxCJV" style="width:100%;display:inline-block" tabindex="-1">
+               <div class="sc-1m21ola-12 giHXFP">
+                <h2 class="sc-1m21ola-3 WM_GLOBAL_heading54 sm-word-wrap sc-15za8y8-0 cNMKyT">
+                 Hey there, aquaholics!
+                </h2>
+                <p class="sc-1m21ola-4 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 hbOMAe">
+                 The biggest pool party of this summer is on the go! Join Blue Desert's annual pool party and enjoy the grandest water celebration in the city.
+                </p>
+                <div class="buttons-block sc-1xk50io-0 itzSYI">
+                 <div class="sc-1xk50io-1 isaKnF">
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Legislação
+                     </a>
+                    </div>
+                   </div>
+                   <div class="sc-1xk50io-2 iksDzg">
+                    <div class="link-wrapper">
+                     <a class="link" href="http://builder.renderforestsites.com" rel="noopener noreferrer" target="_blank">
+                      Assistir Vídeo
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper sc-jutf6p-0 hijxOr">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Legislação
+                     </a>
+                    </div>
+                   </div>
+                   <div class="sc-1xk50io-2 iksDzg">
+                    <div class="link-wrapper">
+                     <a class="link" href="http://builder.renderforestsites.com" rel="noopener noreferrer" target="_blank">
+                      Assistir Vídeo
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div aria-hidden="true" class="slick-slide slick-cloned" data-index="3" style="width:20%" tabindex="-1">
+             <div>
+              <div class="sc-1m21ola-2 kzDEEw" style="width:100%;display:inline-block" tabindex="-1">
+               <div class="sc-1m21ola-12 hhzjlk">
+                <h2 class="sc-1m21ola-3 WM_GLOBAL_heading54 sm-word-wrap sc-15za8y8-0 cNMKyT">
+                 Summer pool party
+                </h2>
+                <p class="sc-1m21ola-4 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 hbOMAe">
+                 This is an annual pool party we have organised for more than 3 years. Everyone knows how much fun they might miss if they don't make it. So save the date and come with good vibes only!
+                </p>
+                <div class="buttons-block sc-1xk50io-0 itzSYI">
+                 <div class="sc-1xk50io-1 isaKnF">
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Join the fun!
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="WM_GLOBAL_secondary-font buttons-wrapper sc-jutf6p-0 hijxOr">
+                   <div class="sc-1xk50io-2 iJYLqe">
+                    <div class="link-wrapper">
+                     <a class="link" href="/#comp-189babe9512">
+                      Join the fun!
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="sc-1m21ola-13 dUzUSo">
+          <button class="left sc-1m21ola-14 ivtucF">
+          </button>
+          <button class="right sc-1m21ola-14 ivtucF">
+          </button>
+         </div>
+         <div class="sc-1m21ola-5 coflSe">
+          <div class="sc-1m21ola-6 fyaaUx">
+           <div class="sc-1m21ola-7 bNqWac">
+           </div>
+           <div class="1 sc-1m21ola-7 gQFxbz">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </header>
+     <section>
+      <div class="sc-1ly7lpo-0 boKZAu">
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-189baffb19d">
+       </div>
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-1">
+       </div>
+       <div class="sc-hfuk3-0 dxzcjg sc-zyxusa-0 PXsbt">
+        <div class="sc-hfuk3-1 cGlesl sc-ewl9y2-0 klOQRe">
+         <div class="sc-hfuk3-2 byhCXC">
+          <div class="opacity sc-hfuk3-3 egOnCS">
+           <p class="WM_GLOBAL_heading20 sc-hfuk3-7 gyEiOl">
+            💦    Save the date   🌴    August 20
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section>
+      <div class="sc-1ly7lpo-0 boKZAu">
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-189b4e1deef">
+       </div>
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-2">
+       </div>
+       <div class="sc-simwcc-0 SkrDO sc-zyxusa-0 PXsbt">
+        <div class="sc-ewl9y2-0 klOQRe">
+         <div class="sc-simwcc-1 fblASQ">
+          <h1 class="sc-simwcc-2 WM_GLOBAL_heading42 sm-word-wrap sc-15za8y8-0 dgICdF">
+           Projeto de Extensão Direito Ambiental
+          </h1>
+         </div>
+         <div class="sc-simwcc-4 ecADU">
+          <div class="sc-simwcc-5 iJmXUK">
+           <div class="sc-simwcc-6 crKYpY">
+            <div class="sc-simwcc-9 jZrQQw">
+             <div class="sc-simwcc-10 eSlqRm">
+             </div>
+            </div>
+            <h2 class="sc-simwcc-7 WM_GLOBAL_heading20 blockText sm-word-wrap sc-15za8y8-0 kqZrcr">
+             Lounging
+            </h2>
+            <p class="sc-simwcc-8 WM_GLOBAL_paragraph14 blockText sm-word-wrap sc-15za8y8-0 hngYGS">
+             We have got floats, tubes, and loungers, so you don't have to bother about those things. But if you like, feel free to bring your own.
+            </p>
+           </div>
+          </div>
+          <div class="sc-simwcc-5 iJmXUK">
+           <div class="sc-simwcc-6 crKYpY">
+            <div class="sc-simwcc-9 jZrQQw">
+             <div class="sc-simwcc-10 eSlqRm">
+             </div>
+            </div>
+            <h2 class="sc-simwcc-7 WM_GLOBAL_heading20 blockText sm-word-wrap sc-15za8y8-0 kqZrcr">
+             BBQ
+            </h2>
+            <p class="sc-simwcc-8 WM_GLOBAL_paragraph14 blockText sm-word-wrap sc-15za8y8-0 hngYGS">
+             We'll have a yummy bbq cookout to enjoy something hot off the grill! Beer and fresh tropical drinks will also be served.
+            </p>
+           </div>
+          </div>
+          <div class="sc-simwcc-5 iJmXUK">
+           <div class="sc-simwcc-6 crKYpY">
+            <div class="sc-simwcc-9 jZrQQw">
+             <div class="sc-simwcc-10 eSlqRm">
+             </div>
+            </div>
+            <h2 class="sc-simwcc-7 WM_GLOBAL_heading20 blockText sm-word-wrap sc-15za8y8-0 kqZrcr">
+             Swimming
+            </h2>
+            <p class="sc-simwcc-8 WM_GLOBAL_paragraph14 blockText sm-word-wrap sc-15za8y8-0 hngYGS">
+             Swimming and sunbathing are what we are coming for! So don't forget to bring your swimming suit, towel, and sunscreen to stay safe in the sun.
+            </p>
+           </div>
+          </div>
+          <div class="sc-simwcc-5 iJmXUK">
+           <div class="sc-simwcc-6 crKYpY">
+            <div class="sc-simwcc-9 jZrQQw">
+             <div class="sc-simwcc-10 eSlqRm">
+             </div>
+            </div>
+            <h2 class="sc-simwcc-7 WM_GLOBAL_heading20 blockText sm-word-wrap sc-15za8y8-0 kqZrcr">
+             Games
+            </h2>
+            <p class="sc-simwcc-8 WM_GLOBAL_paragraph14 blockText sm-word-wrap sc-15za8y8-0 hngYGS">
+             We'll have extra fun playing  games. We have come up with the best pool games, from pool volleyball and tug of war to  racing and water jousting. Show off your skills and win a special prize!
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section>
+      <div class="sc-1ly7lpo-0 boKZAu">
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-189baf7bd9e">
+       </div>
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-3">
+       </div>
+       <div class="sc-zqotme-0 leXrAN sc-zyxusa-0 PXsbt">
+        <div class="sc-zqotme-1 kbUWQO">
+         <h1 class="sc-zqotme-2 WM_GLOBAL_heading42 sm-word-wrap sc-15za8y8-0 bOJWjB">
+          Moments at Blue Desert
+         </h1>
+         <p class="sc-zqotme-3 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 rygpP">
+          Take a look at the moments we have captured at last year's party!
+         </p>
+        </div>
+        <div class="sc-zqotme-4 cexcBk">
+         <div class="sc-zqotme-6 fjgubL">
+          <div class="sc-zqotme-8 ggaVQv">
+           <div class="sc-zqotme-9 kUoYky">
+            <a target="_blank">
+             <div class="LazyLoad">
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="sc-zqotme-8 ggaVQv">
+           <div class="sc-zqotme-9 kUoYky">
+            <a target="_blank">
+             <div class="LazyLoad">
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="sc-zqotme-8 ggaVQv">
+           <div class="sc-zqotme-9 kUoYky">
+            <a target="_blank">
+             <div class="LazyLoad">
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="sc-zqotme-8 ggaVQv">
+           <div class="sc-zqotme-9 kUoYky">
+            <a target="_blank">
+             <div class="LazyLoad">
+             </div>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section>
+      <div class="sc-1ly7lpo-0 boKZAu">
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-189babe9512">
+       </div>
+       <div class="sc-1ly7lpo-1 jHCZrL" id="comp-4">
+       </div>
+       <div class="sc-63vfq0-13 kviIjz">
+        <div class="sc-63vfq0-0 fBFPLj sc-zyxusa-0 PXsbt">
+         <div class="sc-63vfq0-1 iNIdig sc-ewl9y2-0 klOQRe">
+          <div class="sc-63vfq0-2 hRbzNt">
+           <div class="sc-63vfq0-1 iNIdig sc-ewl9y2-0 klOQRe">
+            <div class="sc-63vfq0-8 dLniaj">
+             <p class="sc-63vfq0-3 WM_GLOBAL_paragraph14 sm-word-wrap sc-15za8y8-0 duqwSa">
+              Wohooo!
+             </p>
+             <h1 class="sc-63vfq0-4 WM_GLOBAL_heading32 sm-word-wrap sc-15za8y8-0 gnwGPp">
+              Summer pool party
+             </h1>
+             <p class="sc-63vfq0-5 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 ipfSzv">
+              Join the celebration to have some summer tan and extra fun!
+             </p>
+             <p class="sc-63vfq0-6 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 cBOERd">
+              20.08.2023 | 6:00PM  (GMT-08:00)
+             </p>
+             <a class="sc-63vfq0-7 WM_GLOBAL_paragraph18 sm-word-wrap sc-15za8y8-0 kLbfBv" href="https://maps.google.com/maps?q=6150+Piedmont+Ave,Los+Angeles,CA+90042,USA" target="_blank">
+              Blue Desert
+             </a>
+             <div class="sc-f74s5z-0 jaNPls">
+              <button class="WM_GLOBAL_paragraph sc-f74s5z-1 hKjHPr">
+               RSVP
+              </button>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="form-container sc-nqpo2f-7 iWpRlz">
+         <div class="sc-nqpo2f-1 fTWoz" id="39679_formId">
+          <div class="form-wrapper sc-nqpo2f-2 ebLElX">
+           <div class="sc-nqpo2f-0 hUfwvw">
+            <div class="radio-button-list sc-1ygymcr-2 dvFNcE">
+             <div class="radio-buttons-title sc-1ygymcr-4 kcxRvu">
+              <h4 class="WM_GLOBAL_heading20 sc-1ygymcr-1 gExKHg">
+               Ready to jump in the pool this Sunday?
+               <span class="sc-1ygymcr-3 jjtnMh">
+               </span>
+              </h4>
+             </div>
+             <form class="sc-1ygymcr-0 ifmjDT">
+              <div class="sc-1396f4y-1 gUANEW">
+               <input checked="" class="sc-1396f4y-2 jUnXMp" id="yes" name="options" type="radio" value="yes"/>
+               <label class="WM_GLOBAL_paragraph18 sc-1396f4y-0 gtDUTX" for="yes">
+                Accepts with pleasure
+               </label>
+              </div>
+              <div class="sc-1396f4y-1 gUANEW">
+               <input class="sc-1396f4y-2 jUnXMp" id="no" name="options" type="radio" value="no"/>
+               <label class="WM_GLOBAL_paragraph18 sc-1396f4y-0 gtDUTX" for="no">
+                Declines with regret
+               </label>
+              </div>
+             </form>
+            </div>
+           </div>
+           <div class="sc-nqpo2f-4 eihFek">
+            <div class="sc-6srjsa-1 iJPpXT">
+             <div class="sc-6srjsa-5 fRiBaw">
+              <label class="WM_GLOBAL_paragraph14 sc-6srjsa-3 fNijAa" for="name">
+               First name
+               <!-- -->
+               <span class="asterisk sc-6srjsa-2 cQaMZn">
+                *
+               </span>
+              </label>
+             </div>
+             <input class="WM_GLOBAL_secondary-font sc-6srjsa-0 dieQlw" type="text" value=""/>
+            </div>
+            <div class="sc-6srjsa-1 iJPpXT">
+             <div class="sc-6srjsa-5 fRiBaw">
+              <label class="WM_GLOBAL_paragraph14 sc-6srjsa-3 fNijAa" for="name">
+               Last name
+               <!-- -->
+               <span class="asterisk sc-6srjsa-2 cQaMZn">
+                *
+               </span>
+              </label>
+             </div>
+             <input class="WM_GLOBAL_secondary-font sc-6srjsa-0 dieQlw" type="text" value=""/>
+            </div>
+           </div>
+           <div class="sc-nqpo2f-4 eihFek">
+            <div class="sc-6srjsa-1 iJPpXT">
+             <div class="sc-6srjsa-5 fRiBaw">
+              <label class="WM_GLOBAL_paragraph14 sc-6srjsa-3 fNijAa" for="name">
+               Email
+               <!-- -->
+               <span class="asterisk sc-6srjsa-2 cQaMZn">
+                *
+               </span>
+              </label>
+             </div>
+             <input class="WM_GLOBAL_secondary-font sc-6srjsa-0 dieQlw" type="text" value=""/>
+            </div>
+            <div class="sc-6srjsa-1 iJPpXT">
+             <div class="sc-6srjsa-5 fRiBaw">
+              <label class="WM_GLOBAL_paragraph14 sc-6srjsa-3 fNijAa" for="name">
+               Phone number
+               <!-- -->
+               <span class="asterisk sc-6srjsa-2 cQaMZn">
+                *
+               </span>
+              </label>
+             </div>
+             <input class="WM_GLOBAL_secondary-font sc-6srjsa-0 dieQlw" type="text" value=""/>
+            </div>
+           </div>
+           <button class="WM_GLOBAL_paragraph14 sc-nqpo2f-5 hFiDet" disabled="">
+            + Additional guest
+           </button>
+           <div class="dynamic-fields sc-nqpo2f-6 lmUFRm">
+           </div>
+           <button class="WM_GLOBAL_paragraph14 sc-nqpo2f-3 eicbC">
+            Submit
+           </button>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div class="sc-lvczw7-1 dXYeBk">
+     <div class="sc-15u4boq-0 bdivov sc-ewl9y2-0 klOQRe">
+      <div class="sc-15u4boq-4 hKBCfs">
+       <div class="sc-15u4boq-5 cwWBOh">
+        <img alt="Logo" height="60px" src="https://static.rfstat.com/renderforest/images/website_maker_images/render-logo.svg" width="255px"/>
+       </div>
+       <p class="sc-15u4boq-2 jhArze">
+        <span class="sc-15u4boq-3 ineHXG">
+         Disclaimer:
+        </span>
+        This website was built with Renderforest, however it is
+        <span class="sc-15u4boq-3 ineHXG">
+         NOT
+        </span>
+        managed by Renderforest.  If you find the content on this website abusive or inappropriate please report right away.
+       </p>
+      </div>
+      <button class="sc-15u4boq-6 goUXAt" type="primary">
+       Report
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="./bundle-m25eve3i.js">
+  </script>
+  
+ </body>
+</html>

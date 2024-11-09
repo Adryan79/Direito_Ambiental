@@ -1,0 +1,108 @@
+/* Importação de Fonte e Reset */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+:root {
+    --azul-claro: #4a90e2;
+    --verde-claro: #77ff00;
+    --laranja: #ff6f00;
+    --rosa: #ff4081;
+    --amarelo: #ffd700;
+    --cinza-claro: #f0f0f0;
+    --cinza-escuro: #333;
+    --degrade-btn: linear-gradient(45deg, #4a90e2, #ff6f00);
+}
+
+/* Estilo da Div Container do Formulário */
+.divs {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color:  #14424b;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    color: var(--cinza-escuro);
+    border: 2px solid var(--azul-claro);
+}
+
+/* Estilo de Cabeçalho do Formulário */
+h1 {
+    text-align: center;
+    color: var(--verde-claro);
+    margin-bottom: 50px;
+    font-weight: 600;
+}
+
+/* Campos do Formulário */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    color: var(--cinza-escuro);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+textarea {
+    padding: 12px;
+    font-size: 16px;
+    color: var(--cinza-escuro);
+    background-color: var(--cinza-claro);
+    border: 2px solid var(--azul-claro);
+    border-radius: 5px;
+    transition: border-color 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+textarea:focus {
+    border-color: var(--rosa);
+    outline: none;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+/* Botão de Submissão */
+input[type="submit"] {
+    padding: 12px;
+    font-size: 16px;
+    color: white;
+    background: var(--degrade-btn);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: transform 0.3s;
+}
+
+input[type="submit"]:hover {
+    transform: scale(1.05);
+}
+
+/* Mensagem de Confirmação */
+#mensagem {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 16px;
+    color: var(--verde-claro);
+}

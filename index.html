@@ -19,12 +19,11 @@
             
           </div>
           <ul class="ul">
-            <li><a href="#">Depoimentos</a></li>
-            <li><a href="#">Vídeos</a></li>
-            <li><a href="#">Legislação</a></li>
-            <li><a href="#">Projeto</a></li>
-            li><a href="#">Projeto</a></li>
-            <li><a href="certificado.html"><button class="botao_grande">Certificado</button></a></li>
+            <li><a href="#Depoiments">Depoimentos</a></li>
+            <li><a href="https://www.youtube.com/watch?si=ZyN2NS2GCGr3q0Gj&v=6yHD_rtFEwE&feature=youtu.be">Vídeos</a></li>
+            <li><a href="#Legisl">Legislação</a></li>
+            <li><a href="#Project">Projeto</a></li>
+            <button class="botao_grande"> <a href="video.html">certificado</a></button>
           </ul>
           <div class="menu-icon">
             <img src="menu.png" alt="Menu" width="50">
@@ -58,12 +57,12 @@
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Depoimentos sobre o Direito Ambiental</title>
+      <title class="depoi">Depoimentos sobre o Direito Ambiental</title>
       <link rel="stylesheet" href="style.css">
   </head>
   <body class="Mens">
       <div class="New">
-          <h1 class="Dep">Depoimentos sobre o Impacto do Direito Ambiental</h1>
+          <h1 id="Depoiments">Depoimentos sobre o Impacto do Direito Ambiental</h1>
           <div class="depoimentos">
               <!-- Depoimento 1 -->
               <div class="depoimento joao">
@@ -152,7 +151,7 @@
       <div class="legislacao-content">
         <img src="balaça.png" alt="balança" class="legislacao-img">
         <div class="texto-legislacao">
-          <h2 class="titulo-legislacao">Leis Ambientais Importantes</h2>
+          <h2 class="titulo-legislacao" id="Legisl">Leis Ambientais Importantes</h2>
           <ul class="lista-legislacao">
             <li>Lei nº 12.651/2012 - Código Florestal</li>
             <li>Lei nº 9.605/1998 - Lei de Crimes Ambientais</li>
@@ -201,27 +200,97 @@
       </div>
     </div>
   </section>
-  <!-- Fim Legislação Ambiental -->  
-  <section id="denuncias">
-    <div class="container">
-      <h2 class="titulo-denuncias">Denúncias de Locais com Lixo</h2>
-      <div class="denuncia">
-        <img src="lixo 01.jpg" alt="Local cheio de lixo" class="denuncia-img">
-        <div class="denuncia-info">
-          <h3>Local 1: Praça Central</h3>
-          <p>Este local tem sido alvo de várias denúncias devido ao acúmulo de lixo, comprometendo a saúde e o bem-estar da comunidade.</p>
-          <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
-        </div>
+  <!-- Fim Legislação Ambiental -->
+<section id="denuncias">
+  <div class="denuncias-container">
+    <h2 class="denuncias-titulo">Denúncias de Locais com Lixo</h2>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local1.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local2.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local3.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local4.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local5.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
       </div>
-      <div class="denuncia">
-        <img src="lixo 02.png" alt="Acúmulo de lixo em esquina" class="denuncia-img">
-        <div class="denuncia-info">
-          <h3>Local 2: Esquina da Rua X com Rua Y</h3>
-          <p>Os moradores reclamam do acúmulo de lixo nessa esquina, que atrai insetos e causa mau cheiro.</p>
-          <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
-        </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 1 a 5 Rua Tupiniquins x Rua João Berlando - bem próximo da estação de tratamento da Sanepar bairro Alto Alegre</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
+      </div>
+      <hr>
+    </div>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local6.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local7.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+      </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 6 a 7 Rua Carajas x Rua Maxacalis - bairro Santa Cruz</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
       </div>
     </div>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local8.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local9.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+      </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 8 a 9 Rua Citrino x Rua Zircão - bairro Esmeralda</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
+      </div>
+    </div>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local10.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+      </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 10 Rua Zircão x Rua Turmalina - bairro Esmeralda</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
+      </div>
+    </div>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local11.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local12.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+      </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 11 a 12 Rua Turmalina x Rua Safira</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
+      </div>
+    </div>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local13.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local14.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local15.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local16.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+      </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 13 a 16 Rua Aparecida dos Portos</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
+      </div>
+    </div>
+
+    <div class="denuncia-item">
+      <div class="denuncia-imagens">
+        <img src="local17.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local18.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local19.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+        <img src="local20.jpeg" alt="Local cheio de lixo" class="denuncia-imagem">
+      </div>
+      <div class="denuncia-detalhes">
+        <h3 class="denuncia-titulo">local 17 a 20 R. do Arroio, 299-227 - 14 de Novembro, Cascavel - PR, 85804-109</h3>
+        <a href="https://cascavel.atende.net/cidadao/pagina/patrulha-ambiental" class="denuncia-link">Denunciar</a>
+      </div>
+    </div>
+  </div>
+</section>
+
   </section>
 
  <!-- Formatação Planlfeto -->
@@ -247,5 +316,6 @@
 
   
   <script src="main.js"></script>
+  <script src="certificado.js"></script>
 </body>
 </html>
